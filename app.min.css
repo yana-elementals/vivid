@@ -2839,13 +2839,6 @@ template {
     }
 }
 
-@media (min-width: 480px) {
-    .menu-mobile {
-        -webkit-box-shadow:0 16px 32px -20px rgba(52,58,64,.0784313725);
-        box-shadow: 0 16px 32px -20px rgba(52,58,64,.0784313725)
-    }
-}
-
 .reproduction__after .w-embed {
     height: 100%
 }
@@ -2910,15 +2903,6 @@ template {
     width: 36px
 }
 
-/* @media (min-width: 480px) {
-    .menu-mobile {
-        -webkit-backdrop-filter:blur(25px);
-        backdrop-filter: blur(25px);
-        background-image: -webkit-gradient(linear,left top,right top,from(rgba(255,255,255,.5019607843)),to(rgba(255,255,255,.2509803922)));
-        background-image: linear-gradient(90deg,rgba(255,255,255,.5019607843),rgba(255,255,255,.2509803922));
-        border-bottom: 1px solid rgba(255,255,255,.2509803922)
-    }
-} */
 
 .is-ovh {
     overflow: hidden
