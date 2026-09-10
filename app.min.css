@@ -2908,12 +2908,6 @@ template {
     overflow: hidden
 }
 
-.menu-active .header {
-    background-color: #fff;
-    -webkit-backdrop-filter: none;
-    backdrop-filter: none
-}
-
 .iframe-box .w-embed {
     display: block;
     width: 100%;
