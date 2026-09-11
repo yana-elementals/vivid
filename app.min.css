@@ -2843,6 +2843,14 @@ template {
     border-color: #f6f7fd;
 }
 
+.header-nav__item--menu-industries.is-active, .header-nav__item--menu-1.is-active{
+    background-color: #f6f7fd;
+}
+
+.header-nav__item--menu-industries.is-active img, .header-nav__item--menu-1.is-active img{
+    transform: rotate(180deg);
+}
+
 .reproduction__after .w-embed {
     height: 100%
 }
